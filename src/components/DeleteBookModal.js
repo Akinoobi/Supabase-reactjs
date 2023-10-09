@@ -7,7 +7,7 @@ import { useQueryClient } from "react-query";
 
 export const DeleteBookModalComponent = (props) => {
   const deleteBookMutation = useDeleteBookMutation(); // Initialize the delete mutation hook
-
+ 
   const [fetchData] = useBookStore((state) => [state.fetchData]);
   const {isOpenModal, setIsOpenModal, deleteId} = props;
   const handleSubmit = async () => {
