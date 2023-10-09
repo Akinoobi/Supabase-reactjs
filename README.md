@@ -18,7 +18,7 @@ You can start operate the CRUD Operation I made for the Books.
 
 ## Learn More About Me
 
-To learn more about [About me](github.com/Akinoobi), take a look at the following resources:
+To learn more about [About me](https:github.com/Akinoobi), take a look at the following resources:
 
 - [Github](https:github.com/Akinoobi/)
 - [Linkedin](https://www.linkedin.com/in/angelo-palma-4a6992187/)
